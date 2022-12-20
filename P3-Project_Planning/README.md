@@ -8,11 +8,17 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
+* [Register Wireframe](https://github.com/T12av1S/liftoff-assignments/blob/master/Register%20Wireframe.jpeg)
+* [Main Browsing Page Wireframe](https://github.com/T12av1S/liftoff-assignments/blob/master/Browse%20Movies%20Wireframe.jpeg)
+* [Search with Filters Wireframe](https://github.com/T12av1S/liftoff-assignments/blob/master/Search%20Movies%20Wireframe.jpeg)
+
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
 
 ### Project Tracker
 
 Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+
+* [Trello Board](https://trello.com/b/I6lb3wo3/movie-app)
 
 ### Project Repo Link
 
